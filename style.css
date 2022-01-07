@@ -1,0 +1,72 @@
+body {
+}
+h1 {
+  font-size: 40px;
+}
+.broder-header {
+  font-family: "Ubuntu", sans-serif;
+  border-left: 5px solid blueviolet;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+.header-color {
+  color: blueviolet;
+}
+.color-button {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  margin-top: 50px;
+  padding: 10px 40px;
+  background-image: linear-gradient(blueviolet, #df4a9c);
+  border-radius: 10px;
+}
+.box-flexiable {
+  display: flex;
+}
+.first-part {
+  width: 100%;
+  margin: 70px;
+  padding-left: 20px;
+}
+.first-part img {
+  width: 70%;
+}
+.first-part p {
+  margin-bottom: 5%;
+}
+#note-tag {
+  margin-top: 40px;
+}
+.mission-2022 {
+  background-image: url(images/bg-1.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 200px;
+}
+.header-agenda {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+.second-part {
+  width: 20%;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+.box-1 {
+  background-color: rgb(191 219 254);
+  padding: 20px;
+  margin-left: 190px;
+}
+.box-2 {
+  background-color: rgb(199 210 254);
+  padding: 20px;
+}
+.box-3 {
+  background-color: rgb(221 214 254);
+  padding: 20px;
+  margin-right: 150px;
+}
+.illus {
+  width: 50%;
+}
