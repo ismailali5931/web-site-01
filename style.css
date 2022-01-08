@@ -88,8 +88,8 @@ h1 {
   margin-right: 70px;
   padding-top: 50px;
 }
-.third-part p {
-  margin-bottom: 50px;
+.container-2 p {
+  margin-bottom: 5%;
 }
 .third-part img {
   width: 100%;
@@ -103,6 +103,9 @@ h1 {
   margin-left: 70px;
   padding-top: 20px;
   padding-right: 150px;
+}
+.cabin-1 p {
+  margin-bottom: 5%;
 }
 .cabin-2 {
   width: 30%;
@@ -129,6 +132,20 @@ footer {
   width: 30%;
   padding: 20px;
   margin: 10px;
+}
+.shadow-1 {
   background-color: rgb(238, 206, 238);
-  box-shadow: 20px 20px 10px gray;
+  box-shadow: 10px 10px 40px grey;
+}
+.shadow-2 {
+  background-color: #c6c1fe;
+  box-shadow: 10px 10px 40px grey;
+}
+.shadow-3 {
+  background-color: rgb(199 210 254);
+  box-shadow: 10px 10px 40px grey;
+}
+.shadow-4 {
+  background-color: rgb(191 219 254);
+  box-shadow: 10px 10px 40px grey;
 }
